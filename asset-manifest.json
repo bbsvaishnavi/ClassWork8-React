@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ClassWork8-React/static/css/main.ea65f660.css",
+    "main.js": "/ClassWork8-React/static/js/main.f2407a0a.js",
+    "static/js/453.44f2521d.chunk.js": "/ClassWork8-React/static/js/453.44f2521d.chunk.js",
+    "index.html": "/ClassWork8-React/index.html",
+    "main.ea65f660.css.map": "/ClassWork8-React/static/css/main.ea65f660.css.map",
+    "main.f2407a0a.js.map": "/ClassWork8-React/static/js/main.f2407a0a.js.map",
+    "453.44f2521d.chunk.js.map": "/ClassWork8-React/static/js/453.44f2521d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea65f660.css",
+    "static/js/main.f2407a0a.js"
+  ]
+}
